@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+ body {
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5b6b3d0745776edc24bd7b91/1663170944474-GSUMUI6LXRN85SB5FV3T/image000000.JPG");
+    background-size: cover;
+    background-position: bottom center;
+    height: 700px;
+    width: 100%;
+  }
+
+  

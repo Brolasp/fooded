@@ -1,0 +1,16 @@
+
+ body {
+    background-image: url("https://t4.ftcdn.net/jpg/05/36/24/13/360_F_536241340_GsrsNhcWC0hyTVaJLilNafyDw6fl0cC8.jpg");
+    background-size: cover;
+    background-position: bottom center;
+    height: 1400px;
+    width: 175%;
+  }
+  
+  div {
+    clear:left;
+    position:relative;
+    left:420px;
+    top:300px;
+    width:100%;
+}
